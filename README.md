@@ -8,18 +8,18 @@ In this project, I generate my own [Seinfeld](https://en.wikipedia.org/wiki/Sein
 
 `prime_word = 'john' # name for starting the script`
 
-john: machines, and you know, i don't think you might be a man.
-
-puddy: oh yeah yeah.
-
-jerry: i don't wanna do that. it's not a joke.
-
-george: well, what happened to you, i had to go to your party, but i was thinking about the whole thing.
-
-george: oh, yeah. i don't know.
-
-puddy:(standing up and smiles) so how do you have a good meal?
+*john: machines, and you know, i don't think you might be a man.\
+\
+puddy: oh yeah yeah.\
+\
+jerry: i don't wanna do that. it's not a joke.\
+\
+george: well, what happened to you, i had to go to your party, but i was thinking about the whole thing.\
+\
+george: oh, yeah. i don't know.\
+\
+puddy:(standing up and smiles) so how do you have a good meal?*
 
 See the complete solution in the [my_dlnd_tv_script_generation.ipynb](https://github.com/viktor-begun/Deep_Learning_TV_Script_Generation/blob/main/my_dlnd_tv_script_generation.ipynb) file.
 
-Libraries and methods used: `torch:`, `TensorDataset`, `DataLoader`, `torch.nn`, `torch.nn.functional`; `NumPy`, `collections.Counter`, `unittest`.
+**Libraries and methods used:** `torch:`, `TensorDataset`, `DataLoader`, `torch.nn`, `torch.nn.functional`; `NumPy`, `collections.Counter`, `unittest`.
